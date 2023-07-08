@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a ...
+- 📚 Wiktionary editor
+- 🛠️ MediaWiki developer
+- ✏️ Translatewiki translator
+- 🗺️ OpenStreetMap mapper
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dringsim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
